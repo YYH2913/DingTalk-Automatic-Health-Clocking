@@ -1,4 +1,4 @@
-# DingTalk-Automatic-Health-Clocking
+# DingTalk-Automatic-Health-Daily-Attendance
 <font size=35>请务必自觉申报自身情况！！！</font><br>
 此版本仅支持校内，自定义地区打卡咕咕咕中~<br>
 自带的selenium驱动版本为87.0.4280.20，实测87.0.4280.141也可使用，其他chrome版本请到以下网址自行下载替换至win文件夹中，务必命名为chromedriver<br>
